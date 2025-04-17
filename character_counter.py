@@ -2,6 +2,7 @@
 # Author: ars3ツ
 # Description: A simple Python script that counts the number of characters in a user-inputted string.
 
+
 def count_characters():
     """
     Prompts the user to enter a string and displays the character count.
