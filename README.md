@@ -54,7 +54,7 @@ Choose operation: 5 (Square Root) Enter number: 25 Result: sqrt(25) = 5.0
 
 ---
 
-### `atm.py`
+### `Atm_System.py`
 
 A simulation of an ATM where users can create an account, log in, deposit and withdraw money, and change their PIN.  
 It tracks all operations in a log file and uses a simple JSON file to save user data.
@@ -65,6 +65,7 @@ It tracks all operations in a log file and uses a simple JSON file to save user 
 • Perform operations like deposit, withdrawal, view balance, or change PIN
 
 ---
+
 ## How to Use
 
 1. **Clone the repository**  
@@ -73,9 +74,10 @@ It tracks all operations in a log file and uses a simple JSON file to save user 
    cd PyCode
    python character_counter.py
    python calculator.py
-   python atm.py
+   python Atm_System.py
    
----   
+---  
+
 ## Project Structure
 PyCode/
 
@@ -83,13 +85,14 @@ PyCode/
 
 ├── character_counter.py # Script to count characters in a user-input string
 
-├── atm.py # Script for ATM simulation (Account management, deposits, withdrawals, PIN change)
+├── Atm_System.py # Script for ATM simulation (Account management, deposits, withdrawals, PIN change)
 
 ├── LICENSE # MIT license for open use
 
 └── README.md # Project documentation
 
 ---
+
 ## Contributing
 
 Want to add your own script or suggest improvements? Open an [Issue](https://github.com/Ars3ツ/PyCode/issues) or submit a [Pull Request](https://github.com/Ars3ツ/PyCode/pulls). We welcome all contributions!
