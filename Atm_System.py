@@ -1,3 +1,10 @@
+# Autore: Ars3ツ
+#Simulation of an ATM
+#(This is just a simulation.) Any unlawful act committed with this code does not concern the creator.)
+
+
+
+
 import json  # to save and load user data from a file
 from datetime import datetime  # to log dates and times of operations
 
